@@ -2,8 +2,11 @@
   "resources": [
     {"id":{"name":"spr_bolha","path":"sprites/spr_bolha/spr_bolha.yy",},"order":1,},
     {"id":{"name":"spr_background03","path":"sprites/spr_background03/spr_background03.yy",},"order":2,},
+    {"id":{"name":"obj_bolha","path":"objects/obj_bolha/obj_bolha.yy",},"order":2,},
     {"id":{"name":"spr_background02","path":"sprites/spr_background02/spr_background02.yy",},"order":1,},
     {"id":{"name":"spr_moeda","path":"sprites/spr_moeda/spr_moeda.yy",},"order":2,},
+    {"id":{"name":"obj_moeda","path":"objects/obj_moeda/obj_moeda.yy",},"order":1,},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":0,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
     {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},"order":0,},
